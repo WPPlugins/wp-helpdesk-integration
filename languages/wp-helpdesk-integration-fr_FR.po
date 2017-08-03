@@ -1,0 +1,473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-helpdesk-integration\n"
+"POT-Creation-Date: 2016-10-15 17:18+0530\n"
+"PO-Revision-Date: 2016-10-15 18:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_attr__;"
+"esc_url__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ConfigureIncludedPlugins.php:14
+msgid "Freshdesk"
+msgstr "Freshdesk"
+
+#: ConfigureIncludedPlugins.php:15
+msgid "Zendesk"
+msgstr "Zendesk"
+
+#: ConfigureIncludedPlugins.php:16
+msgid "Zohodesk"
+msgstr "Zohodesk"
+
+#: ConfigureIncludedPlugins.php:20 ConfigureIncludedPlugins.php:32
+#: modules/ManageShortcodes/templates/view.php:81
+#: modules/ManageShortcodes/templates/ManageFields.php:219
+msgid "None"
+msgstr "Aucun"
+
+#: ConfigureIncludedPlugins.php:21
+msgid "Ninja Forms"
+msgstr "formes Ninja"
+
+#: ConfigureIncludedPlugins.php:22
+#: modules/ManageShortcodes/templates/ManageFields.php:221
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+#: ConfigureIncludedPlugins.php:23
+msgid "Gravity Form"
+msgstr "Formulaire Gravity"
+
+#: ConfigureIncludedPlugins.php:27
+msgid "Contacts"
+msgstr "Contacts"
+
+#: ConfigureIncludedPlugins.php:28
+msgid "Tickets"
+msgstr "Des billets"
+
+#: ConfigureIncludedPlugins.php:33
+msgid "Wp-members"
+msgstr "TicWp-memberskets"
+
+#: ConfigureIncludedPlugins.php:34
+msgid "ACF"
+msgstr "ACF"
+
+#: ConfigureIncludedPlugins.php:35
+msgid "MemberPress"
+msgstr "MemberPress"
+
+#: includes/Functions.php:61
+msgid "Please configure your Helpdesk in the Helpdesk Configuration"
+msgstr ""
+"S'il vous plaît configurer votre Helpdesk dans la configuration Helpdesk"
+
+#: templates/menu.php:74
+msgid "Forms"
+msgstr "Formes"
+
+#: templates/menu.php:77
+#: modules/ManageShortcodes/templates/ManageFields.php:92
+msgid "Form Settings"
+msgstr "Options de formulaire"
+
+#: templates/menu.php:80
+msgid "WP Users Sync"
+msgstr "Utilisateurs WP Sync"
+
+#: templates/menu.php:86 templates/menu.php:91
+msgid "eCommerce Integration"
+msgstr "Intégration de commerce électronique"
+
+#: templates/menu.php:97
+msgid "Configuration"
+msgstr "Configuration"
+
+#: modules/freshdeskSettings/templates/view.php:50
+#: modules/zendeskSettings/templates/view.php:50
+msgid "Select the Helpdesk you use"
+msgstr "Sélectionnez le Helpdesk vous utilisez"
+
+#: modules/freshdeskSettings/templates/view.php:65
+#: modules/zendeskSettings/templates/view.php:65
+msgid "Domain URL"
+msgstr "Domain URL"
+
+#: modules/freshdeskSettings/templates/view.php:75
+#: modules/zendeskSettings/templates/view.php:73
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: modules/freshdeskSettings/templates/view.php:82
+#: modules/zendeskSettings/templates/view.php:80
+msgid "Password"
+msgstr "Mot de passe"
+
+#: modules/freshdeskSettings/templates/view.php:99
+#: modules/zendeskSettings/templates/view.php:97
+#: modules/zohodeskSettings/templates/view.php:145
+msgid "Save Helpdesk Configuration"
+msgstr "Enregistrer la configuration Helpdesk"
+
+#: modules/freshdeskSettings/templates/view.php:107
+#: modules/zendeskSettings/templates/view.php:105
+#: modules/zohodeskSettings/templates/view.php:154
+msgid "Syncing"
+msgstr "Synchroniser"
+
+#: modules/freshdeskSettings/templates/view.php:108
+#: modules/zendeskSettings/templates/view.php:106
+#: modules/zohodeskSettings/templates/view.php:155
+#: modules/ManageShortcodes/templates/ManageFields.php:346
+msgid "Please Wait"
+msgstr "S'il vous plaît, attendez"
+
+#: modules/Thirdparty/actions/actions.php:75
+#: modules/ThirdpartySettings/actions/actions.php:65
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+#: modules/Thirdparty/actions/actions.php:76
+msgid "Email"
+msgstr "Email"
+
+#: modules/Thirdparty/actions/actions.php:77
+msgid "Email Condition"
+msgstr "Email Condition"
+
+#: modules/Thirdparty/actions/actions.php:78
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:49
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:130
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:171
+msgid "Debug Mode"
+msgstr "Mode débogage"
+
+#: modules/zohodeskSettings/templates/view.php:49
+msgid "Select the HelpDesk you use"
+msgstr "Sélectionnez le HelpDesk vous utilisez"
+
+#: modules/zohodeskSettings/templates/view.php:66
+msgid "Username *"
+msgstr "Nom d'utilisateur *"
+
+#: modules/zohodeskSettings/templates/view.php:74
+msgid "Password *"
+msgstr "Mot de passe *"
+
+#: modules/zohodeskSettings/templates/view.php:82
+msgid "Portal Name *"
+msgstr "Portail Nom *"
+
+#: modules/zohodeskSettings/templates/view.php:90
+msgid "Department Name *"
+msgstr "Nom du département *"
+
+#: modules/zohodeskSettings/templates/view.php:101
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:45
+msgid "Two Factor Authentication"
+msgstr "Authentification à deux facteurs"
+
+#: modules/zohodeskSettings/templates/view.php:114
+msgid "Specify Authtoken"
+msgstr "Spécifiez authToken"
+
+#: modules/ThirdpartySettings/templates/view.php:56
+msgid "Please Wait..."
+msgstr "S'il vous plaît, attendez..."
+
+#: modules/ThirdpartySettings/templates/view.php:71
+msgid "Debug and Notification :"
+msgstr "Debug et notification:"
+
+#: modules/ThirdpartySettings/templates/view.php:75
+msgid "Which log do you need?"
+msgstr "Quels connectez-vous besoin?"
+
+#: modules/ThirdpartySettings/templates/view.php:114
+msgid "Enable Debug mode "
+msgstr "Activer le mode Debug"
+
+#: modules/ThirdpartySettings/templates/view.php:129
+msgid "Save"
+msgstr "sauvegarder"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:41
+msgid "Zoho Username"
+msgstr "Zoho Nom d'utilisateur"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:42
+msgid "Zoho Password"
+msgstr "Zoho Mot de passe"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:43
+msgid "Zoho Portalname"
+msgstr "Zoho PortalName"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:44
+msgid "Zoho Departmentname"
+msgstr "Zoho DepartmentName"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:46
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:127
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:168
+msgid "Smack Email"
+msgstr "Smack Email"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:47
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:128
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:169
+msgid "Email id"
+msgstr "email id"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:48
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:129
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:170
+msgid "Emailcondition"
+msgstr "Emailcondition"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:124
+msgid "Zendesk Username"
+msgstr "Zendesk Nom d'utilisateur"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:125
+msgid "Zendesk Password"
+msgstr "Zendesk Mot de passe"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:126
+msgid "Zendesk Domain URL"
+msgstr "Zendesk Domain URL"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:165
+msgid "Freshdesk Username"
+msgstr "utilisateur Freshdesk"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:166
+msgid "Freshdesk Password"
+msgstr "mot de passe Freshdesk"
+
+#: modules/Settings/actions/SmackHelpDeskSaveConfigurationHelper.php:167
+msgid "Freshdesk Domain URL"
+msgstr "Freshdesk URL de domaine"
+
+#: modules/ManageShortcodes/actions/actions.php:166
+msgid "Helpdesk fields are not yet synchronised"
+msgstr "champs de Helpdesk ne sont pas encore synchronisés"
+
+#: modules/ManageShortcodes/actions/actions.php:170
+msgid "Field Name"
+msgstr "Nom de domaine"
+
+#: modules/ManageShortcodes/actions/actions.php:170
+msgid "Show Field"
+msgstr "Afficher le terrain"
+
+#: modules/ManageShortcodes/actions/actions.php:170
+msgid "Order"
+msgstr "Commande"
+
+#: modules/ManageShortcodes/actions/actions.php:170
+msgid "Mandatory"
+msgstr "Obligatoire"
+
+#: modules/ManageShortcodes/actions/actions.php:170
+msgid "Field Label Display"
+msgstr "Étiquette d'affichage"
+
+#: modules/ManageShortcodes/actions/actions.php:196
+msgid "This field is mandatory, cannot hide"
+msgstr "Ce champ est obligatoire, ne peut pas cacher"
+
+#: modules/ManageShortcodes/actions/actions.php:248
+msgid "Yes"
+msgstr "Oui"
+
+#: modules/ManageShortcodes/actions/actions.php:254
+msgid "No"
+msgstr "Non"
+
+#: modules/ManageShortcodes/templates/view.php:45
+msgid "Forms and Shortcodes"
+msgstr "Formulaires et Shortcodes"
+
+#: modules/ManageShortcodes/templates/view.php:51
+msgid "Shortcode / Title"
+msgstr "Shortcode / Titre"
+
+#: modules/ManageShortcodes/templates/view.php:52
+msgid "Assignee"
+msgstr "Cessionnaire"
+
+#: modules/ManageShortcodes/templates/view.php:53
+#: modules/ManageShortcodes/templates/ManageFields.php:100
+msgid "Form Type"
+msgstr "Type de formulaire"
+
+#: modules/ManageShortcodes/templates/view.php:54
+msgid "Module"
+msgstr "Module"
+
+#: modules/ManageShortcodes/templates/view.php:55
+msgid "Thirdparty"
+msgstr "Tierce personne"
+
+#: modules/ManageShortcodes/templates/view.php:57
+msgid "Actions"
+msgstr "actes"
+
+#: modules/ManageShortcodes/templates/view.php:77
+msgid "Admin"
+msgstr "Administrateur"
+
+#: modules/ManageShortcodes/templates/view.php:84
+msgid "Edit"
+msgstr "modifier"
+
+#: modules/ManageShortcodes/templates/view.php:85
+msgid "Upgrade To PRO"
+msgstr "Passer à Pro"
+
+#: modules/ManageShortcodes/templates/view.php:85
+msgid "Delete"
+msgstr "Effacer"
+
+#: modules/ManageShortcodes/templates/view.php:98
+msgid "Create Ticket Form"
+msgstr "Créer un formulaire Ticket"
+
+#: modules/ManageShortcodes/templates/view.php:101
+msgid "Create Contact Form"
+msgstr "Créer Formulaire de contact"
+
+#: modules/ManageShortcodes/templates/view.php:103
+msgid "Use Existing Form"
+msgstr "Utilisez le formulaire existant"
+
+#: modules/ManageShortcodes/templates/view.php:105
+#: modules/ManageShortcodes/templates/view.php:107
+#: modules/ManageShortcodes/templates/view.php:109
+#: modules/ManageShortcodes/templates/ManageFields.php:115
+#: modules/ManageShortcodes/templates/ManageFields.php:233
+#: modules/ManageShortcodes/templates/ManageFields.php:251
+msgid "Upgrade To Pro"
+msgstr "Passer à Pro"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:124
+msgid "Error Message Submission"
+msgstr "Message d'erreur Présentation"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:127
+msgid "Sorry, submission failed. Kindly try again after some time"
+msgstr ""
+"Désolé, la soumission a échoué. Veuillez réessayer après un certain temps"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:135
+msgid "Message Displayed For Failed Submission."
+msgstr "Message Displayed For Failed Submission."
+
+#: modules/ManageShortcodes/templates/ManageFields.php:142
+msgid "Success Message Submission"
+msgstr "Succès Message Submission"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:153
+msgid "Message Displayed For Successful Submission."
+msgstr "Message affiché pour la présentation réussie."
+
+#: modules/ManageShortcodes/templates/ManageFields.php:163
+msgid "Enable URL Redirection"
+msgstr "Activer la redirection d'URL"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:171
+msgid "Page id or Post id"
+msgstr "Page id ou Post id"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:179
+msgid "(Give your custom success page url post id to redirect leads)."
+msgstr ""
+"(Donnez votre page personnalisée succès url id poste pour rediriger des "
+"pistes)."
+
+#: modules/ManageShortcodes/templates/ManageFields.php:188
+msgid "Enable Google Captcha"
+msgstr "Activer Google Captcha"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:202
+msgid "(Enable google recaptcha feature)."
+msgstr "(Activer google fonction recaptcha)."
+
+#: modules/ManageShortcodes/templates/ManageFields.php:215
+msgid "Choose Thirdparty Form"
+msgstr "Choisir un formulaire ThirdParty"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:220
+msgid "Ninja Form"
+msgstr "Formulaire Ninja"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:222
+msgid "Gravity Forms"
+msgstr "Formulaires de gravité"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:231
+msgid ""
+"(To Enable ninja form,Contact form and Gravity form Please click Upgrade to "
+"Pro link)."
+msgstr ""
+"(Pour activer la forme de ninja, Formulaire de contact et la forme Gravity "
+"S'il vous plaît cliquez sur Mise à niveau vers le lien Pro)."
+
+#: modules/ManageShortcodes/templates/ManageFields.php:244
+msgid "Thirdparty Form Title"
+msgstr "ThirdParty Titre du formulaire"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:261
+msgid "(To Enable Thirdparty Form Title Please Click Upgrade To Pro Link)."
+msgstr ""
+"(Pour activer ThirdParty Form Titre S'il vous plaît Cliquez sur Mise à "
+"niveau vers Pro Link)."
+
+#: modules/ManageShortcodes/templates/ManageFields.php:270
+msgid "Save Form Settings"
+msgstr "Enregistrer les paramètres de formulaire"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:279
+#: modules/ManageShortcodes/templates/ManageFields.php:280
+msgid "Form Options"
+msgstr "Options Formulaire"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:288
+msgid "Field Settings"
+msgstr "Paramètres de champ"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:291
+msgid "Bulk Actions"
+msgstr "Actions en vrac"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:292
+msgid "Enable Field"
+msgstr "Activer le terrain"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:293
+msgid "Disable Field"
+msgstr "Désactiver le terrain"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:294
+msgid "Update Order"
+msgstr "Mise à jour Ordre"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:295
+msgid "Enable Mandatory"
+msgstr "Activer obligatoire"
+
+#: modules/ManageShortcodes/templates/ManageFields.php:301
+#: modules/ManageShortcodes/templates/ManageFields.php:306
+msgid "Apply"
+msgstr "Appliquer"
